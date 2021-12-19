@@ -1,0 +1,7 @@
+{
+  "name": "TugasPemweb2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
